@@ -2,7 +2,7 @@
 
 user 
 doni@mail.com  
-doni
+doni1234
 
 admin
 admin@mail.com    
